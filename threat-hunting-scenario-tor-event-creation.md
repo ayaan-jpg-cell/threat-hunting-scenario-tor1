@@ -80,9 +80,9 @@ DeviceFileEvents
 - **Date**: August 31, 2024
 
 ## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
+- **Reviewer Name**: Ayaan Sheikh
+- **Reviewer Contact**: ayaansheikhofficial@outlook.com
+- **Validation Date**: 11/10/2026
 
 ---
 
